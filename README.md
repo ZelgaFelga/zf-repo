@@ -3,11 +3,12 @@ Zelga Felga is a 3D multiplayer FPS game based on team play, playable in local a
 
 # Game Design Document
 
-https://bit.ly/ZelgaFelgaGDD
+
+<a href="https://bit.ly/ZelgaFelgaGDD">GDD</a>
 
 # Technical Design Document
 
-https://bit.ly/ZelgaFelgaTDD
+<a href="https://bit.ly/ZelgaFelgaTDD">TDD</a>
 
 # Installation
 
@@ -49,4 +50,4 @@ To join an online game, please fellow the steps below :
 
 # License
 
-
+<a href="https://www.gnu.org/licenses/gpl-3.0.txt">GPL V3.0</a>.
