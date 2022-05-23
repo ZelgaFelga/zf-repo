@@ -15,6 +15,7 @@ Zelga Felga is a 3D multiplayer FPS game based on team play, playable in local a
 ## Windows
 
 <a href="https://github.com/ZelgaFelga/zf-repo/releases/tag/v1.0-Windows">Zelga Felga v1.0 for Windows</a>
+<a href="https://github.com/ZelgaFelga/zf-repo/releases/tag/v1.0-windows-visite-temp">Zelga Felga v1.0 Visit for Windows</a>
 
 ## MacOS
 
